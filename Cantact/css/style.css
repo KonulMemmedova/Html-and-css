@@ -1,0 +1,200 @@
+body {
+  background-color: #a7c4fc;
+  background-image: -webkit-linear-gradient(136deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+
+body main section .container .cantactMain {
+  width: 100%;
+}
+
+body main section .container .cantactMain .Cantact {
+  position: relative;
+  width: 851px;
+  margin-left: 323px;
+  background: #dfd2d2;
+  border-radius: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 166px 316px;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact {
+  margin-bottom: -2px;
+  position: relative;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact img {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  height: 100%;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact .text1 {
+  position: absolute;
+  left: 5%;
+  bottom: 15%;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact .text1 p {
+  font-size: 32px;
+  line-height: 1.65;
+  font-family: 'Roboto Serif', serif;
+  font-weight: 700;
+  color: #fff;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact .text1 p span {
+  display: block;
+  font-size: 25px;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact .text2 {
+  position: absolute;
+  right: 8%;
+  bottom: 1.5%;
+  font-family: 'Roboto Serif', serif;
+  font-weight: 700;
+  color: #fff;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact .text2 p {
+  padding-bottom: 20px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 18px;
+}
+
+body main section .container .cantactMain .Cantact .leftCantact .text2 p .number {
+  font-size: 35px;
+  padding-right: 9px;
+}
+
+body main section .container .cantactMain .Cantact form {
+  background-color: #fff;
+  padding: 8px 40px 20px 40px;
+  position: relative;
+  width: 100%;
+  display: block;
+  margin-top: 0em;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact {
+  line-height: 3;
+  width: 300px;
+  display: block;
+  height: 100%;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact h2 {
+  font-family: 'Roboto Serif', serif;
+  font-weight: 700;
+  color: #a7c4fc;
+  font-size: 28px;
+  position: relative;
+  padding: 6px 0 0;
+  margin-bottom: 25px;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .inputBox {
+  display: block;
+  width: 100%;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .inputBox label {
+  height: 33px;
+  font-family: 'Roboto Serif', serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #666;
+  display: block;
+  margin-bottom: 13px;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .inputBox input {
+  width: 100%;
+  padding: 14.5px 15px;
+  border: 1px solid #e5e5e5;
+  font-family: 'Roboto Serif', serif;
+  font-size: 16px;
+  color: #333;
+  border-radius: 5px;
+  outline: none;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .checkbox {
+  margin-top: 10px;
+  position: relative;
+  height: 117px;
+  width: 100%;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .checkbox .container {
+  font-family: 'Roboto Serif', serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #666;
+  display: block;
+  margin-bottom: 11px;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .checkbox .container p {
+  width: 100%;
+  padding-top: 46px;
+  margin-left: 30px;
+  color: #666;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto Serif', serif;
+  line-height: 1.67;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .checkbox .container p a {
+  display: inline-block;
+  font-weight: 500;
+  color: #385cb9;
+  text-decoration: underline;
+  display: block;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .checkbox .container p input {
+  margin-bottom: 27px;
+  position: absolute;
+  top: 67px;
+  left: 0;
+  height: 17px;
+  width: 16px;
+  border: 2px solid #3b63ca;
+  cursor: pointer;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .checkbox .container p span {
+  color: #333;
+}
+
+body main section .container .cantactMain .Cantact form .rightCantact .btn input {
+  margin-left: 30px;
+  height: 50px;
+  padding: 15px;
+  background: #3b63ca;
+  border-radius: 6px;
+  -o-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  width: 160px;
+  border: none;
+  margin: 6px 0 50px 0px;
+  cursor: pointer;
+  font-family: 'Roboto Serif', serif;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+}
+/*# sourceMappingURL=style.css.map */
